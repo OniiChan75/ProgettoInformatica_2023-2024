@@ -1,7 +1,10 @@
 <?php
 
 // Recupera il messaggio di errore dall'URL
-$errorMessage = $_GET['error'];
+$errorMessage = null;
+if (isset($_GET['error'])) {
+    $errorMessage = $_GET['error'];
+}
 
 ?>
 

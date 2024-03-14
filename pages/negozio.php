@@ -35,7 +35,7 @@
         <h2>Videogiochi</h2>
         <ul>
             <li>
-                <img src="immagini/videogioco1.jpg" alt="Videogioco 1">
+                <img src="./assets/imgs/test.png" alt="Videogioco 1">
                 <h3>Titolo Videogioco 1</h3>
                 <p>Descrizione Videogioco 1</p>
                 <a href="#">Acquista</a>
